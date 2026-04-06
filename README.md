@@ -73,7 +73,14 @@ This project analyzes pizza sales data from 2015 using Power BI to uncover busin
 ---
 
 ## 📷 Dashboard Preview
-*(Add screenshots here)*
+<img width="1179" height="666" alt="Screenshot 2026-04-07 002750" src="https://github.com/user-attachments/assets/122bb1d4-c27d-4703-848e-ad29c387fbe1" />
+<img width="1209" height="684" alt="Screenshot 2026-04-07 002758" src="https://github.com/user-attachments/assets/6c5806ee-794f-44e4-be50-1d41fd5e9460" />
+<img width="1214" height="685" alt="Screenshot 2026-04-07 002806" src="https://github.com/user-attachments/assets/6ea0c61c-27e5-4500-b829-ae33a6d75a2f" />
+<img width="1213" height="682" alt="Screenshot 2026-04-07 002815" src="https://github.com/user-attachments/assets/0cdabe0f-30b4-4109-8060-a54149c86d2f" />
+
+
+
+
 
 ---
 
